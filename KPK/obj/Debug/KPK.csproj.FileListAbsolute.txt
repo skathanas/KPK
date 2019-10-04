@@ -1,0 +1,6 @@
+/Volumes/MAC/Jarmo/Projects/KPK/KPK/bin/Debug/KPK.exe
+/Volumes/MAC/Jarmo/Projects/KPK/KPK/bin/Debug/KPK.pdb
+/Volumes/MAC/Jarmo/Projects/KPK/KPK/obj/Debug/KPK.csprojAssemblyReference.cache
+/Volumes/MAC/Jarmo/Projects/KPK/KPK/obj/Debug/KPK.csproj.CoreCompileInputs.cache
+/Volumes/MAC/Jarmo/Projects/KPK/KPK/obj/Debug/KPK.exe
+/Volumes/MAC/Jarmo/Projects/KPK/KPK/obj/Debug/KPK.pdb
